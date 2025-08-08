@@ -28,4 +28,3 @@ Apesar de ainda não ter muita experiência na área de Tecnologia, é uma área
 *Estou dando meus primeiros passos no universo da tecnologia e quero cada vez mais me aproximar desse mundo — aprender com pessoas experientes, trocar ideias e crescer na área.*
 
 **Gosto de desafios, de me reinventar e de encontrar soluções que façam sentido na prática.**
-**Gosto de desafios, de me reinventar e de encontrar soluções que façam sentido na prática.**
