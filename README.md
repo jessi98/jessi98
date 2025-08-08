@@ -4,7 +4,7 @@ Conecte-se comigo [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?sty
 
 Olá, me chamo **Jéssica**, sou Engenheira de Produção e atualmente curso Ciência de Dados.
 
-Apesar de ainda não ter muita experiência com análise de dados, é uma área que me desperta muito interesse e vontade de me desenvolver.
+Apesar de ainda não ter muita experiência na área de Tecnologia, é uma área que me desperta muito interesse e vontade de me desenvolver.
 
 ###  💻 Tecnologias | Nível de conhecimento
 
