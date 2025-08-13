@@ -7,13 +7,11 @@ Conecte-se comigo
 
 Sou **Engenheira de Produção** por formação e atualmente curso **Ciência de Dados**.  
 Descobri que o pensamento estruturado e orientado a processos, tão presente na engenharia, está super alinhado com o universo da **Tecnologia**, especialmente no desenvolvimento backend.  
-Troquei planilhas e processos por códigos e dados, pois vejo no desenvolvimento a oportunidade de transformar ideias do zero em soluções práticas e eficientes — algo que fala direto com a minha bagagem técnica e minha paixão por resolver desafios.
-
-Essa conexão entre engenharia e TI me inspira a crescer cada vez mais na área de Ciência de Dados e Desenvolvimento Backend, construindo projetos que entreguem valor real e aprendizado constante.
+Vejo no desenvolvimento a oportunidade de transformar ideias do zero em soluções práticas e eficientes — algo que fala direto com a minha bagagem técnica e minha paixão por resolver desafios.
 
 ---
 
-### 🌟 Sobre mim — versão divertida
+### 🌟 Sobre mim
 
 Sou uma mistura curiosa de **organização meticulosa** com **espontaneidade expansiva**.  
 Sim, sou introvertida... até me empolgar! 😄  
